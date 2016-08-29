@@ -5,7 +5,4 @@ test 1;
 this. test2..-version2
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-<<<<<<< HEAD
-=======
 cv-___branch--version3 devtest
->>>>>>> cv
